@@ -1,4 +1,4 @@
-#needs only Python, nothing to install
+#needs only Python, nothing to install EXCEPT WINGET (winget install -e --id Python.Python.3.12)
  
 import hashlib
 import math
