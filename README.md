@@ -1,7 +1,19 @@
 # 🔐 Keep Your Self Safe
 
-IF YOU DONT HAVE WIDGET INSTALLED ME DO SO
-winget install -e --id Python.Python.3.12
+IF YOU DONT HAVE WIDGET INSTALLED PLS DO SO
+winget install -e --id Python.Python.3.12       IN THE TERMINAL 
+
+INFORMATION:
+
+Personally, I don't think it will be an everyday utility for most people, since they already have password managers such as Bitwarden or 1password to create and test passwords. But that's not what a project such as this is about.
+
+However, i still don't think people should trust these services as u as the a person aren't involved in most of the autofill/password generation so i added alot of common things in the data field for common password by adding alot of things people would normally keep their password as.
+
+If u feel like u want here to be other changes pls feel free to do so that would make me feel like this project actually mattered
+
+THANK YOU FOR CHECKING MY FIRST EVER PROJECT 
+
+if you have another worries please feel free to contact dawgdawg2008@gmail.com (not my main gmail nor is the gmail i used to create my git hub account)
 
 A lightweight desktop password strength checker and generator built with **pure Python** and **tkinter**. No dependencies, nothing to install.
 
